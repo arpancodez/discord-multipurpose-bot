@@ -1,0 +1,110 @@
+# Discord.py and core dependencies
+discord.py>=2.3.2
+aiohttp>=3.8.0
+aiofiles>=23.0.0
+
+# Database support
+asyncpg>=0.28.0
+sqlite3
+
+# Environment and configuration
+python-dotenv>=1.0.0
+pyyaml>=6.0
+toml>=0.10.2
+
+# HTTP and API requests
+requests>=2.31.0
+httpx>=0.24.0
+
+# Date and time handling
+python-dateutil>=2.8.0
+
+# Music and audio processing
+yt-dlp>=2023.7.6
+PyNaCl>=1.5.0
+opus-python>=1.0.1
+
+# Image processing and manipulation
+Pillow>=10.0.0
+wand>=0.6.0
+
+# Text processing and utilities
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.0
+markdown>=3.4.0
+
+# Web scraping and parsing
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Async utilities and helpers
+asyncio-throttle>=1.0.2
+async-timeout>=4.0.0
+
+# Caching and performance
+cachetools>=5.3.0
+redis>=4.6.0
+
+# Logging and monitoring
+coloredlogs>=15.0
+loguru>=0.7.0
+
+# Mathematical and scientific computing
+numpy>=1.24.0
+
+# Random and games utilities
+random2>=1.0.0
+
+# Economics and currency
+economy>=1.0.0
+
+# Cryptographic utilities
+cryptography>=41.0.0
+hashlib
+
+# System and OS utilities
+psutil>=5.9.0
+platform
+
+# Network utilities
+ping3>=4.0.0
+
+# Development and debugging tools
+flake8>=6.0.0
+black>=23.0.0
+
+# Additional utility libraries
+more-itertools>=10.0.0
+itertools
+
+# JSON and data handling
+orjson>=3.9.0
+msgpack>=1.0.0
+
+# Time zone handling
+pytz>=2023.3
+
+# Regular expressions (built-in but good to specify)
+re
+
+# File and directory operations
+pathlib
+os
+shutil
+
+# Math utilities (built-in)
+math
+random
+
+# Collections and data structures
+collections
+
+# String operations
+string
+
+# Error handling and exceptions
+traceback
+
+# Concurrency
+threading
+concurrent.futures
